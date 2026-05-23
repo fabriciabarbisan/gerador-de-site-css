@@ -1,4 +1,4 @@
-let chave = "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"
+let chave = "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"
 let endereco = "https://api.groq.com/openai/v1/chat/completions"
 let prompt = `Você é um designer web premiado e programador.
 Crie uma landing page COMPLETA e VISUALMENTE IMPRESSIONANTE para o negócio descrito.
