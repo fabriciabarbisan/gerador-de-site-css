@@ -29,7 +29,7 @@ async function gerarcodigo() {
         method: "POST",
         headers: {
             "Content-Type": "application/json",
-            "Authorization": "Bearer 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"
+            "Authorization": "Bearer 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"
         },
         body: JSON.stringify({
             "model": "llama-3.3-70b-versatile",
